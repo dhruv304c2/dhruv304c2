@@ -36,7 +36,7 @@ Versatile and innovative software developer specialising in **game development**
 - Created *Chrono-Stream*, a Unity gameplay recording framework supporting transform tracking, animation state capture, object creation/destruction logging, and custom event tracking.  
 
 ##### 2. Glance AI Samsung Lockscreen Companions
-- **Download link:**https://play.google.com/store/apps/details?id=com.glance.ai&pcampaignid=web_share
+- **Download link:** https://play.google.com/store/apps/details?id=com.glance.ai&pcampaignid=web_share
 
 - Designed and developed a mini-game engine from scratch to embed multiple 3D views natively in an Android application, with the game engine layer in Rust and the rendering layer in C++ using OpenGL — powering **interactable characters on the Glance AI Samsung lockscreen**.  
 
