@@ -10,7 +10,6 @@ Versatile and innovative software developer specialising in **game development**
 - **The Builder in the Making Award** (Encore 2025, Glance) — Honoured for leading the development of a custom rendering engine from scratch, enabling multi-viewport 3D experiences on Android with Rust and C++ OpenGL layers.  
 
 ## Core Competencies  
-**Game Engine Development** — Custom Engines, ECS Architecture  
 **Unity Engine Expertise** — DOTS, Addressables, Multiplayer Architecture, Photon Fusion/Fusion2, Shader Graphs, Particle Systems  
 **Graphics Programming** — OpenGL, GLSL Shader Programming, Post-Processing Effects  
 **Lower-Level Programming** — C, C++, Rust, GoLang  
