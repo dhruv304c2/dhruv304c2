@@ -12,7 +12,12 @@ Versatile and innovative software developer specialising in **game development**
 ## Core Competencies  
 **Unity Engine Expertise** — DOTS, Addressables, Multiplayer Architecture, Photon Fusion/Fusion2, Shader Graphs, Particle Systems  
 **Graphics Programming** — OpenGL, GLSL Shader Programming, Post-Processing Effects  
-**Lower-Level Programming** — C, C++, Rust, GoLang  
+**Lower-Level Programming** — C, C++, Rust, GoLang
+
+## Open Source Projects
+
+- **MimirMCP:** https://github.com/dhruv304c2/mimir-mcp
+- **Kokoroxide:** https://github.com/dhruv304c2/kokoroxide
 
 ## Work History  
 
