@@ -10,7 +10,7 @@ Versatile and innovative software developer specialising in **game development**
 
 ---
 
-## 🌍 Open Source Projects  
+## 🌍 Open Source
 - **MimirMCP:** https://github.com/dhruv304c2/mimir-mcp  
 - **Kokoroxide:** https://github.com/dhruv304c2/kokoroxide  
 
