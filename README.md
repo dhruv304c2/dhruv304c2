@@ -1,70 +1,78 @@
 # DHRUV PANT
 
-SDE-II (Glance) • **Game Engine & Graphics Programmer** | **Unity Engineer**  
-📍 Bangalore | 📧 dhruv304c2@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-pant-742343204/)  
+SDE-II (Glance) • **Unity Platform & Systems Engineer** | **SDK & Developer Tooling**  
+📍 Bangalore | 📧 dhruv304c2@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-pant-742343204/) | 🔗 [GitHub](https://github.com/dhruv304c2)
 
 ---
-
 ## 🧠 Professional Summary  
-Versatile and innovative software developer specialising in **game development** and **real-time graphics**. Skilled in creating both **gameplay experiences** and the **core technology** that powers them, including custom rendering engines and cross-platform systems. Recognised for solving complex technical challenges, streamlining development workflows, and delivering robust, scalable solutions that improve performance and developer productivity.  
-
+ Software engineer specialising in **Unity platform engineering, SDK development, and developer tooling**, with hands-on experience across **gameplay systems, multiplayer frameworks, native Android integrations**, and **agent-driven automation**. Proven ability to own complex, cross-layer problems — from Unity runtime and editor tooling to **MCP-based AI integrations backed by real production systems (e.g. Shopify)**. Prior experience in **engine and graphics development (OpenGL/Rust/C++)** informs performance-aware, scalable system design.
+ 
 ---
-
 ## 🌍 Open Source
-- **MimirMCP:** https://github.com/dhruv304c2/mimir-mcp  
-- **Kokoroxide:** https://github.com/dhruv304c2/kokoroxide  
+- **MimirMCP** — https://github.com/dhruv304c2/mimir-mcp  
+  MCP-based tooling project focused on exposing structured developer and platform capabilities to AI agents. Informed by real-world integrations, including **Shopify-backed workflows used in internal agent-driven fashion tooling**, enabling agents to safely query, mutate, and act on external systems via well-defined interfaces.
+
+- **Kokoroxide** — https://github.com/dhruv304c2/kokoroxide  
+  Experimental systems project exploring reusable components and architectural patterns across engine, tooling, and runtime layers.
+
+- **Gemini Service Account Auth in adk/rust** - https://github.com/zavora-ai/adk-rust/pull/30, Added first-class support for Google Gemini service account authentication to the Rust ADK
 
 ---
-
 ## 🏆 Career Highlights  
-- **The Builder in the Making Award** (Encore 2025, Glance) — Honoured for leading the development of a custom rendering engine from scratch, enabling multi-viewport 3D experiences on Android with Rust and C++ OpenGL layers.  
+- **The Builder in the Making Award** (Encore 2025, Glance) — Recognised for leading a cross-language Android 3D runtime initiative, enabling multi-viewport interactive experiences under strict platform and performance constraints.
 
 ---
-
 ## 🛠️ Core Competencies  
 
-**Unity Engine Expertise**  
-DOTS, Addressables, Multiplayer Architecture, Photon Fusion / Fusion 2, Shader Graphs, Particle Systems  
+**Unity Platform & Systems**  
+SDK Architecture, Runtime Frameworks, Editor Tooling, Addressables, Multiplayer Systems (Photon Fusion / Fusion 2), Profiling & Performance
 
-**Graphics Programming**  
-OpenGL, GLSL Shader Programming, Post-Processing Effects  
+**Android & Native Integration**  
+Android (Kotlin), View & Surface lifecycle, JNI & native library integration, Unity–Android interop, mobile performance constraints
 
-**Lower-Level Programming**  
-C, C++, Rust, Go  
+**Developer Tooling & Automation**  
+MCP-based agent tooling, structured tool schemas, AI agent integration, workflow automation, developer experience optimisation
+
+**Backend & Services**  
+Java, Spring Boot, REST APIs, integration services for platform and tooling workflows
+
+**Engine & Graphics Foundations**  
+OpenGL, GLSL, rendering pipelines, shader-based effects (used to inform higher-level system design)
+
+**Languages**  
+C#, Kotlin, Java, C++, Rust, Go, C
 
 ---
-
 ## 💼 Work History  
 
 ### Go-Pokyo — Contractor  
 *Jan 2022 – Nov 2022*  
 - Developed gameplay systems for *Star-Rising*, a dungeon-crawling card game.  
-- Implemented core features including enemy AI, scene transition management, character animation handling, and state management.  
-
+- Implemented enemy AI, scene transitions, animation handling, and state-driven gameplay systems.  
 ---
-
 ### Tech Alchemy — SDE-II Unity  
 *Jan 2023 – Mar 2025*  
-- Sole contributor and owner of all Unity game development initiatives.  
-- Led a team of three developers, conducted code reviews, and provided architectural guidance.  
-- Designed and built a Web3 Games SDK enabling integration of blockchain-based features across multiple titles.  
-
+- Owned Unity development initiatives end-to-end across multiple titles and prototypes.  
+- Led a small team (3 developers), conducting code reviews and providing architectural guidance.  
+- Designed and built a reusable **Web3 Games SDK**, enabling consistent blockchain feature integration across projects.  
+- Improved maintainability and onboarding through shared tooling, documentation, and engineering standards.
 ---
-
-### Glance — SDE-II Unity | Game Engine Programmer  
+### Glance — SDE-II Unity | Platform & Systems Engineer  
 *Mar 2025 – Present*  
 
-#### 🎮 1. Nostra – Quick Play  
-- **Download:** https://play.google.com/store/apps/details?id=com.nostra.android&pcampaignid=web_share  
-- Contributed to the Nostra Quick Play SDK, enabling Unity games to run natively on the Quick Play platform.  
-- Designed an algorithm to remap Unity prefab `MonoBehaviour` script references to **.dll-based** references — a critical requirement for platform scalability.  
-- Designed and implemented a multiplayer support framework for the SDK using Fusion 2.  
-- Created **Chrono-Stream**, a Unity gameplay recording framework supporting transform tracking, animation state capture, object lifecycle logging, and custom event tracking.  
+#### 🎮 Nostra – Quick Play  
+- Core contributor to the **Nostra Quick Play SDK**, enabling Unity games to run reliably within the Quick Play platform.  
+- Designed a **MonoBehaviour remapping system** allowing prefab script references to transition safely from source assemblies to **.dll-based** deployments — a key enabler for scalable SDK distribution.  
+- Designed and implemented multiplayer support abstractions using **Photon Fusion 2**.  
+- Built **Chrono-Stream**, a gameplay recording and replay framework supporting transform tracking, animation state capture, object lifecycle logging, and custom event tracking.
 
-#### 🤖 2. Glance AI — Samsung Lockscreen Companions  
-- **Download:** https://play.google.com/store/apps/details?id=com.glance.ai&pcampaignid=web_share  
-- Designed and developed a mini-game engine from scratch to embed multiple interactive 3D views natively in an Android application.  
-- Built the engine layer in **Rust** and the rendering layer in **C++ with OpenGL**, powering **interactable 3D characters on the Glance AI Samsung lockscreen**.  
+#### 🤖 Glance AI — Samsung Lockscreen Companions  
+- Delivered interactive 3D experiences on Samsung lockscreen by building a **custom runtime pipeline** beyond standard Unity embedding capabilities.  
+- Architected a cross-language stack with **Rust (engine layer)** and **C++ OpenGL (renderer)**, integrated into Android surfaces under strict lifecycle and performance constraints.  
+- Applied Android-native knowledge to ensure stability, memory safety, and predictable rendering behaviour.
 
-#### 🔬 3. Research & Development  
-- Integrated **MediaPipe** with Unity for real-time motion capture of humanoid 3D characters.  
+#### 🔬 Research & Development  
+- Designed and integrated **MCP-based agent tooling** for internal workflows, including a **Shopify integration used in a fashion-focused conversational agent**, enabling structured access to commerce and product data.  
+- Built supporting backend services and adapters using **Java and Spring Boot** to bridge agent tooling with external platforms.  
+- Prototyped real-time humanoid motion capture by integrating **MediaPipe** with Unity for interactive character exploration.
+---
